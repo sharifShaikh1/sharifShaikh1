@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sharifShaikh1.sharifShaikh1&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -20,7 +26,7 @@
 
 ###
 
-<h6 align="left">I'm a Fullstack Developer & a learner from India<br><br>- 🔭 I’m currently working on https://github.com/sharifShaikh1/FieldEnginAndroid<br>- 📚 I'm currently learning React Native<br>- ⚡ In my free time I Love to Read articles & about trends</h6>
+<h6 align="left">I'm a Fullstack Developer & a learner from India<br><br>- 🔭 I’m currently working on https://github.com/sharifShaikh1/FieldEnginAndroid<br>- 📚 I'm currently learning React Native & Typescript<br>- ⚡ In my free time I Love to Read articles & about trends</h6>
 
 ###
 
@@ -71,5 +77,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sharifShaikh1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
