@@ -85,12 +85,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharifShaikh1&theme=dark" height="220" />
-
-</div>
-
-###
