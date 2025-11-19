@@ -36,7 +36,7 @@
 
 ###
 
-<h6 align="left">I'm a Fullstack Developer & a learner from India<br><br>- 🔭 I’m currently working on https://github.com/sharifShaikh1/FieldEnginAndroid(As my own seperate project)<br>- 📚 I'm currently learning React Native & Typescript<br>- ⚡ In my free time I Love to Read articles & about trends</h6>
+<h6 align="left">I'm a Fullstack Developer & a learner from India<br><br>- 🔭 I’m currently working on https://github.com/sharifShaikh1/FieldEnginAndroid.(As my own seperate project)<br>- 📚 I'm currently learning React Native & Typescript<br>- ⚡ In my free time I Love to Read articles & about trends</h6>
 
 ###
 
